@@ -53,6 +53,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'pg', '~> 0.21.0'
-gem 'redis-rails', '~> 5.0', '>= 5.0.2'
+gem 'redis-rails'
 gem 'sidekiq', '~> 5.0', '>= 5.0.5'
 gem 'rack-timeout', '~> 0.4.2'
